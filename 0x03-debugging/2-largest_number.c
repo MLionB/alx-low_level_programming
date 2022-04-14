@@ -1,17 +1,11 @@
 #include "main.h"
 
 /**
-
  * largest_number - function
-
  * @a: first number
-
  * @b: second number
-
  * @c: third number
-
  * Return: largest number
-
  */
 int largest_number(int a, int b, int c)
 {
