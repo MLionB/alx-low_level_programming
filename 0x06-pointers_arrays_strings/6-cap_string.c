@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *cap_string - function
+ * cap_string - function
  * @s: pointer to char params
  * Return: *s
  */
