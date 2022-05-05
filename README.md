@@ -1,1 +1,1 @@
-read mefile in functions neasted loop
+read me file
