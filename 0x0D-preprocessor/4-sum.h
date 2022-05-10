@@ -1,16 +1,6 @@
-#include <stdio.h>
-#include "4-sum.h"
-#include "4-sum.h"
-/**
- * main - function
- *
- * Return: zero
- */
-int main(void)
-{
-	int s;
+#ifndef _4_SUM_H_
+#define _4_SUM_H_
 
-	s = SUM(98, 1024);
-	printf("%d\n", s);
-	return (0);
-}
+#define SUM(x, y) ((x) + (y))
+
+#endif
